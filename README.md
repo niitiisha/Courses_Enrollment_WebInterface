@@ -1,9 +1,9 @@
 # Courses_Enrollment_WebInterface
 
-**Website Demo - https://ornate-crumble-ad2d75.netlify.app/**
 
-🌐 **Responsive Portfolio Web Application**
+**Responsive Portfolio Web Application**
 Live App: https://ornate-crumble-ad2d75.netlify.app
+
 A modern, responsive web application designed to showcase clean UI, accessibility, and mobile-first design. Built with reusable, scalable components ensuring strong performance and smooth user interaction.
 
 **Overview**
