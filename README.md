@@ -33,13 +33,17 @@ Version Control: Git + GitHub
 Deployment: Netlify
 
 👩‍💻 **About Me**
+
 👋 Hi! I’m **Nitisha Khargakharate**
+
 An aspiring software developer passionate about building scalable, user-centric products.
 I enjoy designing clean interfaces, writing efficient code, and exploring modern web technologies.
 My interests include frontend development, backend integration, and creating smooth user experiences.
+
 📩 Email: nitishak216@gmail.com
 
 🌱 Currently growing in: JavaScript, React, Web Systems
+
 🏁 Getting Started
 
 **To run this project locally:**
